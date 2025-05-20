@@ -887,7 +887,7 @@
 		}
 	},
 	{
-  		"name": "windows 11 Inception",
+  		"name": "Windows 11 Inception",
   		"icon": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/1/29/ad18df0f-bee3-4b8a-9806-ff32ba2e0754.jpg.webp?ect=4g",
   		"type": "Virtual Machine",
   		"data": {
@@ -899,5 +899,25 @@
     	"desc": "Virtual Machine...",
     	"feat": "Inception",
     	"invert": true
+  }                 
+}]   {
+  {
+  "name": "Windows 7 Inception", // unique name (check if it has been used already in the file)
+  "icon": "https:/", // logo image, preferrably 1:1 and less than 128px of width
+  "type": "app", // game or app
+  "data": {
+    "type": "IFrame", // type currently supports IFrame only
+    "url": "https://win7simu.visnalize.com/", // url of the app and make sure they accept Iframe
+    "gallery": [
+      // three or more images for gallery view in store app
+      "https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
+      "https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
+      "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg"
+    ],
+    "desc": "Virtual Machine...", // description for store app
+    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.", // features for store app
+    "invert": true // when true it forces dark theme for game/app window, default is false.
   }
-}]
+	}
+  }
+	}    
