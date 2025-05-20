@@ -899,5 +899,18 @@
     	"desc": "Virtual Machine...",
     	"feat": "Inception",
     	"invert": true
+
+		 "name": "windows 7 recreated",
+  		"icon": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/1/29/ad18df0f-bee3-4b8a-9806-ff32ba2e0754.jpg.webp?ect=4g",
+  		"type": "app",
+  		"data": {"
+    			"type": "IFrame",
+    			"url": "https://win11.blueedge.me",
+    			"gallery": [
+      				"https://news.microsoft.com/wp-content/uploads/prod/sites/454/2021/10/Hero-Bloom-Logo-800x533-1.jpg"
+    	],
+    	"desc": "This is a simulator...",
+    	"feat": "Inception",
+    	"invert": true
   }
 }]
