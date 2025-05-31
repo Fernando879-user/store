@@ -901,3 +901,15 @@
     	"invert": true
   }
 }]
+		"name": "Opera GX",
+		"icon": "https://static-00.iconduck.com/assets.00/opera-gx-icon-2036x2048-muhwqi14.png",
+		"type": "app",
+		"data": {
+			"type": "IFrame",
+			"url": "https://sites.google.com/view/operagx-noticies/p%C3%A1gina-principal",
+			"gallery": [
+				""
+			],
+			"desc": "¡Downlad now!",
+			"feat": "This 'browser is very really good!"
+		
